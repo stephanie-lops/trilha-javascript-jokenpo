@@ -18,7 +18,6 @@ const state = {
     actions:{
         button:document.getElementById("next-duel"),
     },
-    
 };
 
 const playerSides = {
@@ -67,7 +66,7 @@ async function createCardImage(IdCard, fieldSide) {
     cardImage.setAttribute("data-id", IdCard);
     cardImage.classList.add("card");
 
-    if (fieldSide === state.playerSides.player1) {
+    if (fieldSide === playerSides.player1) {
     cardImage.addEventListener("mouseover", () => {
       drawSelectCard(IdCard);
     });
@@ -90,8 +89,8 @@ async function drawCards(cardNumbers, fieldSide) {
 }
 
 function init(){
-    drawCards(5, state.playerSides.player1);
-    drawCards(5, state.playerSides.computer);
+    drawCards(5, playerSides.player1);
+    drawCards(5, playerSides.computer);
 }
 
 init();
