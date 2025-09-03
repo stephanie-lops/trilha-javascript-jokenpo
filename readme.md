@@ -4,7 +4,7 @@ Um mini-jogo inspirado em **Yu-Gi-Oh** e no clássico **Jo-Ken-Po (Pedra, Papel 
 O jogador escolhe cartas para duelar contra o computador, cada uma com atributos e interações únicas.  
 Reprodução da trilha de javascript do bootcamp Front-End Santander 2025.
 
-![YuGiOh Preview](./src/assets/jokenpo-preview.PNG) <!-- Adicione um print do jogo aqui -->
+![YuGiOh Preview](./src/assets/jokenpo-preview.PNG)
 
 ---
 
