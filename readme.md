@@ -77,6 +77,6 @@ O sistema segue a lógica do **Pedra, Papel e Tesoura**, adaptado para cartas:
 - 🎶 Áudio e 🎥 vídeo integrados para imersão  
 
 
-(./src/assets/jokenpo-preview.PNG)
+![Jo ken po Preview](./src/assets/jokenpo-preview.PNG)
 
 
