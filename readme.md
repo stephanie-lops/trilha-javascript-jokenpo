@@ -4,8 +4,6 @@ Um mini-jogo inspirado no clássico **Jo-Ken-Po (Pedra, Papel e Tesoura)**.
 O jogador escolhe cartas para duelar contra o computador, cada uma com atributos e interações únicas.  
 Reprodução da trilha de javascript do bootcamp Front-End Santander 2025.
 
-// ](./src/assets/jokenpo-preview.PNG)
-
 ---
 
 Link Deploy: https://trilha-javascript-jokenpo.vercel.app/
@@ -77,5 +75,8 @@ O sistema segue a lógica do **Pedra, Papel e Tesoura**, adaptado para cartas:
 - **CSS3**  
 - **JavaScript (ES6+)**  
 - 🎶 Áudio e 🎥 vídeo integrados para imersão  
+
+
+(./src/assets/jokenpo-preview.PNG)
 
 
