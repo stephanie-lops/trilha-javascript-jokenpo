@@ -1,3 +1,16 @@
+body {
+    cursor: url("../assets/cursor/yugicursor.png"), default;
+}
+
+button,
+a,
+img:hover,
+button:hover,
+a:hover{
+    cursor: url("../assets/cursor/yamiyugicursorGLOW.png"), auto;
+}
+
+
 .bg-video {
     position: absolute;
     z-index: -2;
@@ -35,7 +48,6 @@
 }
 
 .container__left {
-    border: 1px solid red;
     width: 35%;
     min-width: 300px;
     display: flex;
@@ -119,6 +131,7 @@
 .card-infield {
     height: 11.2rem;
     width: 8rem;
+    border: 1px solid white;
     border-radius: 8px;
 }
 
