@@ -1,10 +1,10 @@
-# Yu-Gi-Oh Jo-Ken-Po Edition  
+# Jo-Ken-Po Game  
 
-Um mini-jogo inspirado em **Yu-Gi-Oh** e no clássico **Jo-Ken-Po (Pedra, Papel e Tesoura)**.  
+Um mini-jogo inspirado no clássico **Jo-Ken-Po (Pedra, Papel e Tesoura)**.  
 O jogador escolhe cartas para duelar contra o computador, cada uma com atributos e interações únicas.  
 Reprodução da trilha de javascript do bootcamp Front-End Santander 2025.
 
-![YuGiOh Preview](./src/assets/jokenpo-preview.PNG)
+// ](./src/assets/jokenpo-preview.PNG)
 
 ---
 
